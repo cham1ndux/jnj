@@ -1,0 +1,28 @@
+1. What service did the attacker use to gain access to the system?
+
+-------------------------------------------------------
+
+2. What attack type was used to gain access to the system?(one word)
+
+--------------------------------------------------------
+
+3. What was the tool the attacker possibly used to perform this attack?
+
+---------------------------------------------------------
+
+4. How many failed attempts were there?
+
+----------------------------------------------------------
+
+5. What is the tool used to download malicious files on the system?
+
+------------------------------------------------------------
+
+6. How many files the attacker download to perform malware installation?
+
+------------------------------------------------------------
+
+7. What is the main malware MD5 hash?
+
+-------------------------------------------------------------
+
